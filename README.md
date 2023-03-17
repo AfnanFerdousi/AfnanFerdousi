@@ -1,4 +1,4 @@
-<a href="https://www.facebook.com/afnanferdousi2006">
+<a align="center href="https://www.facebook.com/afnanferdousi2006">
 <img src="https://i.ibb.co/gS6fpLX/Slice-1.png" />
 </a>
 
@@ -28,9 +28,9 @@
 </p>
 <p align="center">
 <img src="https://i.ibb.co/X3bFjB7/react.png"/>
-<img  width="40%" src="https://i.ibb.co/hCYDvwR/next.png"/>
+<img style="border-radius: 8px; width: 60px;" src="https://i.ibb.co/hCYDvwR/next.png"/>
 <img src="https://i.ibb.co/z7CtCdr/sass.png"/>
-<img src="hhttps://i.ibb.co/nfxyBK4/tailwind.png"/>
+<img src="https://i.ibb.co/nfxyBK4/tailwind.png"/>
 <img src="https://i.ibb.co/Msy7s6k/Bootsrap.png"/>
 <img src="https://i.ibb.co/zGy33LP/firebase.png"/>
 </p>
@@ -43,7 +43,7 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/Afnan"><img src="https://api.daily.dev/devcards/db1b2e543ea545aabc7da2f898e9bcfa.png?r=o5u" width="400" alt="Afnan Ferdousi's Dev Card"/></a>
+<a href="https://app.daily.dev/Afnan"><img src="https://api.daily.dev/devcards/db1b2e543ea545aabc7da2f898e9bcfa.png?r=o5u" width="300" alt="Afnan Ferdousi's Dev Card"/></a>
 </div>
 
 ### 🔭 I’m working - In Ostad. 
