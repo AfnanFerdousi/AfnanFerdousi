@@ -41,7 +41,7 @@
 </p><br/>
 
 ## :eyes: Current overview
-
+<div style="display: flex; justify-content: space-between;" >
 <div align="right">
 <a href="https://app.daily.dev/Afnan"><img src="https://api.daily.dev/devcards/db1b2e543ea545aabc7da2f898e9bcfa.png?r=o5u" width="300" alt="Afnan Ferdousi's Dev Card"/></a>
 </div>
@@ -52,5 +52,5 @@
 ### ⚡ Fun fact - I can speak 4 languages.
 ### ❤️ Hobby - Sleeping and reading mangas.
 
-
+</div>
 <br />
