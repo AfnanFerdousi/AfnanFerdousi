@@ -28,7 +28,7 @@
 </p>
 <p align="center">
 <img src="https://i.ibb.co/X3bFjB7/react.png"/>
-<img  width="60%" src="https://i.ibb.co/hCYDvwR/next.png"/>
+<img  width="40%" src="https://i.ibb.co/hCYDvwR/next.png"/>
 <img src="https://i.ibb.co/z7CtCdr/sass.png"/>
 <img src="hhttps://i.ibb.co/nfxyBK4/tailwind.png"/>
 <img src="https://i.ibb.co/Msy7s6k/Bootsrap.png"/>
