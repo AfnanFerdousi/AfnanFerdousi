@@ -42,7 +42,7 @@
 
 ## :eyes: Current overview
 
-<div align="left">
+<div align="right">
 <a href="https://app.daily.dev/Afnan"><img src="https://api.daily.dev/devcards/db1b2e543ea545aabc7da2f898e9bcfa.png?r=o5u" width="300" alt="Afnan Ferdousi's Dev Card"/></a>
 </div>
 
