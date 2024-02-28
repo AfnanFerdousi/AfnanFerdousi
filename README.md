@@ -1,7 +1,6 @@
-<a align="center" href="https://www.facebook.com/afnanferdousi2006" styles="display: flex; justify-content: center; width: 100%; margin-left: auto; margin-right: auto">
-<img src="https://i.ibb.co/gS6fpLX/Slice-1.png" />
+<a href="https://www.facebook.com/afnanferdousi2006" style="display: flex; justify-content: center; width: 100%; margin-left: auto; margin-right: auto;">
+    <img src="https://i.ibb.co/gS6fpLX/Slice-1.png" />
 </a>
-
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
