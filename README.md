@@ -9,7 +9,7 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=AfnanFerdousi&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
 </p>
 
-## :mailbox: Reach me out
+## :mailbox: Reach out to me
 
 <br />
 
