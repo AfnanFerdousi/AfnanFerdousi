@@ -1,4 +1,4 @@
-<a align="center" href="https://www.facebook.com/afnanferdousi2006" styles="display: flex; justify-content: center; width: 100%">
+<a align="center" href="https://www.facebook.com/afnanferdousi2006" styles="display: flex; justify-content: center; width: 100%; margin-left: auto; margin-right: auto">
 <img src="https://i.ibb.co/gS6fpLX/Slice-1.png" />
 </a>
 
