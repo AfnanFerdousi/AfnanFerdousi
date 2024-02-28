@@ -1,4 +1,4 @@
-<a align="center" href="https://www.facebook.com/afnanferdousi2006" styles="display: flex; justify-content: center">
+<a align="center" href="https://www.facebook.com/afnanferdousi2006" styles="display: flex; justify-content: center; width: 100%">
 <img src="https://i.ibb.co/gS6fpLX/Slice-1.png" />
 </a>
 
@@ -46,7 +46,9 @@
 <a href="https://app.daily.dev/Afnan"><img src="https://api.daily.dev/devcards/db1b2e543ea545aabc7da2f898e9bcfa.png?r=o5u" width="400" alt="Afnan Ferdousi's Dev Card"/></a>
 </div>
 
-### 🔭 I’m working - In Ostad. 
+### 🔭 I’m working - In Coder Squad. 
+### 🎓 I’ve worked - In Ostad. 
+### 🐬 I’ve worked - In GenRes. 
 ### 🌱 I’m exploring - Mobile and web app development. 
 ### 🤔 I’m trying - To develop impactful web apps. 
 ### ⚡ Fun fact - I can speak 4 languages.
