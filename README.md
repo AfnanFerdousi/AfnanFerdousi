@@ -46,7 +46,7 @@
 <a href="https://app.daily.dev/Afnan"><img src="https://api.daily.dev/devcards/db1b2e543ea545aabc7da2f898e9bcfa.png?r=o5u" width="400" alt="Afnan Ferdousi's Dev Card"/></a>
 </div>
 
-### 🔭 CEO - At Dreabuild. 
+### 🔭 Works @DataAutomator | @Dreabuild . 
 ### 🎓 I’ve worked - In Ostad. 
 ### 🐬 I’ve worked - In GenRes. 
 ### 🌱 I’m exploring - Mobile and web app development. 
